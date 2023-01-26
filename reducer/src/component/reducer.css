@@ -1,0 +1,13 @@
+body{
+    margin: 0;
+    border:0;
+    display: flex;
+    height: fit-content;
+    justify-content: center;
+}
+.buttonCase {
+    display: flex;
+    justify-content: space-evenly;
+    flex-direction: row;
+    align-items: baseline;
+}
